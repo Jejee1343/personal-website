@@ -1,0 +1,35 @@
+---
+title: "CV"
+toc: true
+---
+
+::: {.callout-note}
+To publish a PDF version of your CV, drop the file into this project as
+`cv.pdf` and add a download link:
+`[Download PDF](cv.pdf)`. Quarto will copy it to the site automatically.
+:::
+
+## Education
+
+**M.A. Economics**, Old Dominion University — expected 20XX
+
+**B.A./B.S. Your Field**, Your University — 20XX
+
+## Experience
+
+**Job title**, Organization — 20XX–20XX
+
+- What you did, with a number in it if you can.
+- A second bullet.
+
+## Research and Projects
+
+- *Project title* — one-line description. [See project](portfolio.qmd)
+
+## Technical Skills
+
+R · Stata · Python · SQL · Quarto · Tableau · Git
+
+## Languages
+
+Thai (native) · English (fluent)

@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "A new home for my work",
+    "section": "",
+    "text": "I rebuilt this site with Quarto so that the analyses I write for coursework and research can be published directly, without copying results into a page builder by hand. I write a .qmd file, render it, and it shows up here."
+  },
+  {
+    "objectID": "posts/welcome/index.html#how-posts-work",
+    "href": "posts/welcome/index.html#how-posts-work",
+    "title": "A new home for my work",
+    "section": "How posts work",
+    "text": "How posts work\nEvery post lives in its own folder under posts/, with an index.qmd inside. The front matter at the top sets the title, date, and categories, and the blog listing picks it up automatically."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-is-next",
+    "href": "posts/welcome/index.html#what-is-next",
+    "title": "A new home for my work",
+    "section": "What is next",
+    "text": "What is next\nMore posts as the semester goes on — mostly notes on econometrics and on the tools I use to get from raw data to a finished write-up."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "(Write a few paragraphs here about yourself: where you are from, what drew you to economics, and what you enjoy working on. Two to four short paragraphs is plenty — this is the page people read after the home page.)"
+  },
+  {
+    "objectID": "about.html#hello",
+    "href": "about.html#hello",
+    "title": "About",
+    "section": "",
+    "text": "(Write a few paragraphs here about yourself: where you are from, what drew you to economics, and what you enjoy working on. Two to four short paragraphs is plenty — this is the page people read after the home page.)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nM.A. Economics — Old Dominion University\n\nExpected 20XX. Coursework in econometrics, microeconomic theory, and applied data analysis.\n\nB.A. / B.S. in Your Field — Your University\n\n20XX. (Add honors, thesis title, or relevant coursework.)"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nStatistical analysis\nR, Stata, Python\n\n\nData visualization\nggplot2, Tableau, matplotlib\n\n\nReporting\nQuarto, R Markdown, LaTeX\n\n\nOther\nExcel, SQL, Git"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nApplied econometrics\nLabor and development economics\nData visualization and reproducible research"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nThe fastest way to reach me is by email at jjamp001@odu.edu."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Each item below is a Quarto document. Add a new one by creating a folder in projects/ with an index.qmd inside it — it appears here automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExample Analysis\n\n\n\neconometrics\n\nR\n\n\n\nA template project page showing how a Quarto analysis appears on the site.\n\n\n\nSep 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/example-analysis/index.html",
+    "href": "projects/example-analysis/index.html",
+    "title": "Example Analysis",
+    "section": "",
+    "text": "State the question the analysis answers, in one or two sentences."
+  },
+  {
+    "objectID": "projects/example-analysis/index.html#question",
+    "href": "projects/example-analysis/index.html#question",
+    "title": "Example Analysis",
+    "section": "",
+    "text": "State the question the analysis answers, in one or two sentences."
+  },
+  {
+    "objectID": "projects/example-analysis/index.html#data",
+    "href": "projects/example-analysis/index.html#data",
+    "title": "Example Analysis",
+    "section": "Data",
+    "text": "Data\nDescribe the source, the time period, and the unit of observation."
+  },
+  {
+    "objectID": "projects/example-analysis/index.html#method",
+    "href": "projects/example-analysis/index.html#method",
+    "title": "Example Analysis",
+    "section": "Method",
+    "text": "Method\nExplain the model or approach. Equations work out of the box:\n\\[\ny_i = \\beta_0 + \\beta_1 x_i + \\varepsilon_i\n\\]"
+  },
+  {
+    "objectID": "projects/example-analysis/index.html#code",
+    "href": "projects/example-analysis/index.html#code",
+    "title": "Example Analysis",
+    "section": "Code",
+    "text": "Code\nWhen you want the code to actually run and show its output, use a curly-brace chunk. The block below is shown as an example only — see the cheat sheet in this project for how to turn on live code:\nlibrary(ggplot2)\n\nggplot(mpg, aes(displ, hwy, colour = class)) +\n  geom_point() +\n  labs(x = \"Engine displacement\", y = \"Highway MPG\")"
+  },
+  {
+    "objectID": "projects/example-analysis/index.html#findings",
+    "href": "projects/example-analysis/index.html#findings",
+    "title": "Example Analysis",
+    "section": "Findings",
+    "text": "Findings\n\nFinding one.\nFinding two."
+  },
+  {
+    "objectID": "projects/example-analysis/index.html#takeaway",
+    "href": "projects/example-analysis/index.html#takeaway",
+    "title": "Example Analysis",
+    "section": "Takeaway",
+    "text": "Takeaway\nOne paragraph on what this means and what you would do next."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A new home for my work\n\n\n\nmeta\n\nquarto\n\n\n\nWhy I moved this site to Quarto and GitHub Pages.\n\n\n\n\n\nSep 1, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeerawan Jampit",
+    "section": "",
+    "text": "Welcome. I am a graduate student in economics at Old Dominion University, working on applied econometrics and data analysis. This site is where I keep my projects, my written analyses, and notes on things I am learning.\n(Replace this paragraph with two or three sentences in your own words — who you are, what you study, and what you are looking for.)"
+  },
+  {
+    "objectID": "index.html#what-you-will-find-here",
+    "href": "index.html#what-you-will-find-here",
+    "title": "Jeerawan Jampit",
+    "section": "What you will find here",
+    "text": "What you will find here\n\nPortfolio — data analyses and research projects, rendered from Quarto.\nBlog — shorter notes on methods, tools, and coursework.\nAbout — background, education, and skills."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Note\n\n\n\nTo publish a PDF version of your CV, drop the file into this project as cv.pdf and add a download link: [Download PDF](cv.pdf). Quarto will copy it to the site automatically."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nM.A. Economics, Old Dominion University — expected 20XX\nB.A./B.S. Your Field, Your University — 20XX"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nJob title, Organization — 20XX–20XX\n\nWhat you did, with a number in it if you can.\nA second bullet."
+  },
+  {
+    "objectID": "cv.html#research-and-projects",
+    "href": "cv.html#research-and-projects",
+    "title": "CV",
+    "section": "Research and Projects",
+    "text": "Research and Projects\n\nProject title — one-line description. See project"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nR · Stata · Python · SQL · Quarto · Tableau · Git"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\nThai (native) · English (fluent)"
+  }
+]

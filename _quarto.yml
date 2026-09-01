@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Jeerawan Jampit"
+  description: "Economics graduate student — portfolio, projects, and writing."
+  site-url: "https://quarto.jeerawanjampit.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: envelope
+        href: mailto:jjamp001@odu.edu
+        aria-label: Email
+      - icon: github
+        href: https://github.com/Jejee1343
+        aria-label: GitHub
+      # - icon: linkedin
+      #   href: https://www.linkedin.com/in/YOUR-HANDLE
+      #   aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Jeerawan Jampit"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,62 @@
+/*-- scss:defaults --*/
+
+$primary:        #1f5c4d;
+$body-color:     #21262b;
+$body-bg:        #ffffff;
+$link-color:     #1f5c4d;
+$navbar-bg:      #ffffff;
+$navbar-fg:      #21262b;
+$footer-bg:      #f6f7f5;
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+.navbar {
+  border-bottom: 1px solid #e6e8e6;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+/* Landing page headline */
+.about-entity .about-links .about-link {
+  border: 1px solid #d9ddd9;
+  border-radius: 6px;
+}
+
+/* Listing cards */
+.quarto-grid-item {
+  border: 1px solid #e6e8e6;
+  border-radius: 10px;
+  transition: box-shadow 0.15s ease-in-out;
+}
+
+.quarto-grid-item:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+.quarto-title-block .quarto-title-banner {
+  background-color: #f6f7f5;
+}
+
+footer.footer {
+  border-top: 1px solid #e6e8e6;
+  font-size: 0.9rem;
+}
+
+/* Nicer tables in rendered analyses */
+table {
+  font-size: 0.95rem;
+}

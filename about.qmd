@@ -1,0 +1,40 @@
+---
+title: "About"
+toc: true
+---
+
+## Hello
+
+*(Write a few paragraphs here about yourself: where you are from, what drew you
+to economics, and what you enjoy working on. Two to four short paragraphs is
+plenty — this is the page people read after the home page.)*
+
+## Education
+
+**M.A. Economics** — Old Dominion University
+: Expected 20XX. Coursework in econometrics, microeconomic theory, and applied data analysis.
+
+**B.A. / B.S. in Your Field** — Your University
+: 20XX. *(Add honors, thesis title, or relevant coursework.)*
+
+## Skills
+
+| Area | Tools |
+|------|-------|
+| Statistical analysis | R, Stata, Python |
+| Data visualization | ggplot2, Tableau, matplotlib |
+| Reporting | Quarto, R Markdown, LaTeX |
+| Other | Excel, SQL, Git |
+
+: {tbl-colwidths="[30,70]"}
+
+## Interests
+
+- Applied econometrics
+- Labor and development economics
+- Data visualization and reproducible research
+
+## Contact
+
+The fastest way to reach me is by email at
+[jjamp001@odu.edu](mailto:jjamp001@odu.edu).
