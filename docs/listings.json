@@ -1,14 +1,8 @@
 [
   {
-    "listing": "/portfolio.html",
+    "listing": "/research/econometrics-iii/index.html",
     "items": [
-      "/projects/example-analysis/index.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/welcome/index.html"
+      "/research/econometrics-iii/assignment-01/index.html"
     ]
   }
 ]

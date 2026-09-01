@@ -1,0 +1,41 @@
+---
+title: "Courses"
+subtitle: "Graduate and undergraduate coursework"
+toc: true
+---
+
+## Currently taking
+
+| Course | Term | Focus |
+|--------|------|-------|
+| Econometrics III | Fall 2026 | Panel data, causal inference, applied work in R |
+| *(Course name)* | Fall 2026 | *(One line on what it covers)* |
+
+: {tbl-colwidths="[35,20,45]"}
+
+## Completed — graduate
+
+| Course | Term | What I took from it |
+|--------|------|---------------------|
+| Econometrics II | Spring 2026 | *(A sentence on the main skill you gained)* |
+| Microeconomic Theory | Fall 2025 | *(A sentence)* |
+| Macroeconomic Theory | Fall 2025 | *(A sentence)* |
+
+: {tbl-colwidths="[35,20,45]"}
+
+## Completed — undergraduate
+
+*(A short list of the courses that matter most for what you do now. You do not
+need to list everything.)*
+
+- Course name
+- Course name
+- Course name
+
+## Skills these built
+
+- **Econometrics** — OLS and its extensions, panel methods, instrumental variables.
+- **Programming** — R, Stata, Python for cleaning, modeling, and reporting.
+- **Communication** — reproducible reports in Quarto; presenting results to non-specialists.
+
+Work from these courses lives under [Research](research.qmd).

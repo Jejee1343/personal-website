@@ -1,0 +1,32 @@
+---
+title: "Research"
+subtitle: "Projects, analyses, and coursework"
+toc: true
+---
+
+## What I work on
+
+*(Two or three sentences on your research interests — the questions you find
+interesting and the methods you use. Keep it plain enough that a non-economist
+could follow it.)*
+
+My interests sit around applied econometrics, with a focus on
+*(labor / development / your field)*.
+
+## Course work
+
+### [Econometrics III](research/econometrics-iii/index.qmd)
+
+Rendered assignments and projects from Econometrics III, written in Quarto.
+Each one shows the question, the data, the code, and what I found.
+
+## Independent projects
+
+*(As you start your own projects, add them here — a heading, two or three
+sentences, and a link to the write-up.)*
+
+## Working with data
+
+Everything on this site is written in [Quarto](https://quarto.org), which means
+the analysis, the code, and the writing live in one file. If you want to see how
+a result was produced, the code is right there in the page.

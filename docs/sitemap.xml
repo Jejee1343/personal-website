@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quarto.jeerawanjampit.com/posts/welcome/index.html</loc>
-    <lastmod>2026-09-01T20:09:30.583Z</lastmod>
+    <loc>https://quarto.jeerawanjampit.com/handcrafted.html</loc>
+    <lastmod>2026-09-01T23:52:23.380Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.jeerawanjampit.com/about.html</loc>
-    <lastmod>2026-09-01T20:09:30.585Z</lastmod>
+    <loc>https://quarto.jeerawanjampit.com/research/econometrics-iii/assignment-01/index.html</loc>
+    <lastmod>2026-09-01T23:52:23.379Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.jeerawanjampit.com/portfolio.html</loc>
-    <lastmod>2026-09-01T20:09:30.585Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.jeerawanjampit.com/projects/example-analysis/index.html</loc>
-    <lastmod>2026-09-01T20:09:30.584Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.jeerawanjampit.com/blog.html</loc>
-    <lastmod>2026-09-01T20:09:30.586Z</lastmod>
+    <loc>https://quarto.jeerawanjampit.com/internship.html</loc>
+    <lastmod>2026-09-01T23:52:23.380Z</lastmod>
   </url>
   <url>
     <loc>https://quarto.jeerawanjampit.com/index.html</loc>
-    <lastmod>2026-09-01T20:09:30.587Z</lastmod>
+    <lastmod>2026-09-01T23:52:23.365Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.jeerawanjampit.com/cv.html</loc>
-    <lastmod>2026-09-01T20:09:30.585Z</lastmod>
+    <loc>https://quarto.jeerawanjampit.com/research.html</loc>
+    <lastmod>2026-09-01T23:52:23.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.jeerawanjampit.com/courses.html</loc>
+    <lastmod>2026-09-01T23:52:23.379Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.jeerawanjampit.com/about.html</loc>
+    <lastmod>2026-09-01T23:52:23.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.jeerawanjampit.com/resume.html</loc>
+    <lastmod>2026-09-01T23:52:23.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.jeerawanjampit.com/research/econometrics-iii/index.html</loc>
+    <lastmod>2026-09-01T23:52:23.379Z</lastmod>
   </url>
 </urlset>

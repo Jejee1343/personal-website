@@ -1,0 +1,31 @@
+---
+title: "Internship"
+subtitle: "Applied work outside the classroom"
+toc: true
+---
+
+## *(Organization name)*
+
+**Role** · *(Month Year – Month Year)* · *(City, State)*
+
+*(One paragraph on what the organization does and where you fit in.)*
+
+### What I worked on
+
+- *(A project or responsibility, with the result if you can measure it.)*
+- *(Another one.)*
+- *(Another one.)*
+
+### Tools I used
+
+*(R, Excel, SQL, Tableau — whatever applied.)*
+
+### What I learned
+
+*(Two or three sentences. What surprised you, what you would do differently,
+what skill you built that you did not have before.)*
+
+---
+
+*(If you have more than one internship, copy the block above and add it here.
+Most recent first.)*

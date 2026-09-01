@@ -14,20 +14,23 @@ about:
       text: GitHub
       href: https://github.com/Jejee1343
     - icon: file-earmark-text
-      text: CV
-      href: cv.qmd
+      text: Resume
+      href: resume.qmd
 toc: false
 ---
 
 Welcome. I am a graduate student in economics at Old Dominion University,
-working on applied econometrics and data analysis. This site is where I keep
-my projects, my written analyses, and notes on things I am learning.
+working on applied econometrics and data analysis. This site collects my
+coursework, research, and the things I make outside of class.
 
 *(Replace this paragraph with two or three sentences in your own words —
 who you are, what you study, and what you are looking for.)*
 
-## What you will find here
+## Around the site
 
-- **[Portfolio](portfolio.qmd)** — data analyses and research projects, rendered from Quarto.
-- **[Blog](blog.qmd)** — shorter notes on methods, tools, and coursework.
-- **[About](about.qmd)** — background, education, and skills.
+- **[More About Me](about.qmd)** — background, interests, and how I got here.
+- **[Resume](resume.qmd)** — education, experience, and skills.
+- **[Courses](courses.qmd)** — what I have studied and what I am taking now.
+- **[Research](research.qmd)** — projects and rendered analyses, including [Econometrics III](research/econometrics-iii/index.qmd).
+- **[Internship](internship.qmd)** — applied work outside the classroom.
+- **[Handcrafted](handcrafted.qmd)** — things I make with my hands.

@@ -1,184 +1,254 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "A new home for my work",
+    "objectID": "handcrafted.html",
+    "href": "handcrafted.html",
+    "title": "Handcrafted",
     "section": "",
-    "text": "I rebuilt this site with Quarto so that the analyses I write for coursework and research can be published directly, without copying results into a page builder by hand. I write a .qmd file, render it, and it shows up here."
+    "text": "(A short paragraph introducing this page — what you make, how you got into it, and what you enjoy about it. Two or three sentences is plenty.)\nClick any image to see it larger.\n\n\n\n\n\n\n(Caption — what it is)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\nAdding your own photos\nPut your image files in images/handcrafted/, then replace the lines above. Each one follows this pattern:\n![Your caption here](images/handcrafted/your-file.jpg)\nAdd or remove lines freely — the grid rearranges itself. Change layout-ncol=3 to 2 or 4 if you want a different number of columns."
   },
   {
-    "objectID": "posts/welcome/index.html#how-posts-work",
-    "href": "posts/welcome/index.html#how-posts-work",
-    "title": "A new home for my work",
-    "section": "How posts work",
-    "text": "How posts work\nEvery post lives in its own folder under posts/, with an index.qmd inside. The front matter at the top sets the title, date, and categories, and the blog listing picks it up automatically."
-  },
-  {
-    "objectID": "posts/welcome/index.html#what-is-next",
-    "href": "posts/welcome/index.html#what-is-next",
-    "title": "A new home for my work",
-    "section": "What is next",
-    "text": "What is next\nMore posts as the semester goes on — mostly notes on econometrics and on the tools I use to get from raw data to a finished write-up."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "research/econometrics-iii/assignment-01/index.html",
+    "href": "research/econometrics-iii/assignment-01/index.html",
+    "title": "Assignment 1",
     "section": "",
-    "text": "(Write a few paragraphs here about yourself: where you are from, what drew you to economics, and what you enjoy working on. Two to four short paragraphs is plenty — this is the page people read after the home page.)"
+    "text": "(State what the assignment asks, in one or two sentences.)"
   },
   {
-    "objectID": "about.html#hello",
-    "href": "about.html#hello",
-    "title": "About",
+    "objectID": "research/econometrics-iii/assignment-01/index.html#question",
+    "href": "research/econometrics-iii/assignment-01/index.html#question",
+    "title": "Assignment 1",
     "section": "",
-    "text": "(Write a few paragraphs here about yourself: where you are from, what drew you to economics, and what you enjoy working on. Two to four short paragraphs is plenty — this is the page people read after the home page.)"
+    "text": "(State what the assignment asks, in one or two sentences.)"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nM.A. Economics — Old Dominion University\n\nExpected 20XX. Coursework in econometrics, microeconomic theory, and applied data analysis.\n\nB.A. / B.S. in Your Field — Your University\n\n20XX. (Add honors, thesis title, or relevant coursework.)"
-  },
-  {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "About",
-    "section": "Skills",
-    "text": "Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nStatistical analysis\nR, Stata, Python\n\n\nData visualization\nggplot2, Tableau, matplotlib\n\n\nReporting\nQuarto, R Markdown, LaTeX\n\n\nOther\nExcel, SQL, Git"
-  },
-  {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
-    "title": "About",
-    "section": "Interests",
-    "text": "Interests\n\nApplied econometrics\nLabor and development economics\nData visualization and reproducible research"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nThe fastest way to reach me is by email at jjamp001@odu.edu."
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Each item below is a Quarto document. Add a new one by creating a folder in projects/ with an index.qmd inside it — it appears here automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExample Analysis\n\n\n\neconometrics\n\nR\n\n\n\nA template project page showing how a Quarto analysis appears on the site.\n\n\n\nSep 1, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/example-analysis/index.html",
-    "href": "projects/example-analysis/index.html",
-    "title": "Example Analysis",
-    "section": "",
-    "text": "State the question the analysis answers, in one or two sentences."
-  },
-  {
-    "objectID": "projects/example-analysis/index.html#question",
-    "href": "projects/example-analysis/index.html#question",
-    "title": "Example Analysis",
-    "section": "",
-    "text": "State the question the analysis answers, in one or two sentences."
-  },
-  {
-    "objectID": "projects/example-analysis/index.html#data",
-    "href": "projects/example-analysis/index.html#data",
-    "title": "Example Analysis",
+    "objectID": "research/econometrics-iii/assignment-01/index.html#data",
+    "href": "research/econometrics-iii/assignment-01/index.html#data",
+    "title": "Assignment 1",
     "section": "Data",
-    "text": "Data\nDescribe the source, the time period, and the unit of observation."
+    "text": "Data\n(Source, time period, unit of observation, sample size.)"
   },
   {
-    "objectID": "projects/example-analysis/index.html#method",
-    "href": "projects/example-analysis/index.html#method",
-    "title": "Example Analysis",
+    "objectID": "research/econometrics-iii/assignment-01/index.html#method",
+    "href": "research/econometrics-iii/assignment-01/index.html#method",
+    "title": "Assignment 1",
     "section": "Method",
-    "text": "Method\nExplain the model or approach. Equations work out of the box:\n\\[\ny_i = \\beta_0 + \\beta_1 x_i + \\varepsilon_i\n\\]"
+    "text": "Method\n(The model or approach. Equations render automatically:)\n\\[\ny_i = \\beta_0 + \\beta_1 x_i + \\varepsilon_i\n\\]"
   },
   {
-    "objectID": "projects/example-analysis/index.html#code",
-    "href": "projects/example-analysis/index.html#code",
-    "title": "Example Analysis",
-    "section": "Code",
-    "text": "Code\nWhen you want the code to actually run and show its output, use a curly-brace chunk. The block below is shown as an example only — see the cheat sheet in this project for how to turn on live code:\nlibrary(ggplot2)\n\nggplot(mpg, aes(displ, hwy, colour = class)) +\n  geom_point() +\n  labs(x = \"Engine displacement\", y = \"Highway MPG\")"
+    "objectID": "research/econometrics-iii/assignment-01/index.html#analysis",
+    "href": "research/econometrics-iii/assignment-01/index.html#analysis",
+    "title": "Assignment 1",
+    "section": "Analysis",
+    "text": "Analysis\n(When you are ready for live code, change the fence below from r topkq — see README.md for what you need installed.)\nlibrary(ggplot2)\n\nggplot(mpg, aes(displ, hwy, colour = class)) +\n  geom_point() +\n  labs(x = \"Engine displacement\", y = \"Highway MPG\")"
   },
   {
-    "objectID": "projects/example-analysis/index.html#findings",
-    "href": "projects/example-analysis/index.html#findings",
-    "title": "Example Analysis",
-    "section": "Findings",
-    "text": "Findings\n\nFinding one.\nFinding two."
+    "objectID": "research/econometrics-iii/assignment-01/index.html#results",
+    "href": "research/econometrics-iii/assignment-01/index.html#results",
+    "title": "Assignment 1",
+    "section": "Results",
+    "text": "Results\n(What the estimates say. A table or a figure helps here.)"
   },
   {
-    "objectID": "projects/example-analysis/index.html#takeaway",
-    "href": "projects/example-analysis/index.html#takeaway",
-    "title": "Example Analysis",
-    "section": "Takeaway",
-    "text": "Takeaway\nOne paragraph on what this means and what you would do next."
+    "objectID": "research/econometrics-iii/assignment-01/index.html#conclusion",
+    "href": "research/econometrics-iii/assignment-01/index.html#conclusion",
+    "title": "Assignment 1",
+    "section": "Conclusion",
+    "text": "Conclusion\n(One paragraph: what this means, and what the limitations are.)"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "internship.html",
+    "href": "internship.html",
+    "title": "Internship",
     "section": "",
-    "text": "A new home for my work\n\n\n\nmeta\n\nquarto\n\n\n\nWhy I moved this site to Quarto and GitHub Pages.\n\n\n\n\n\nSep 1, 2026\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "Role · (Month Year – Month Year) · (City, State)\n(One paragraph on what the organization does and where you fit in.)\n\n\n\n(A project or responsibility, with the result if you can measure it.)\n(Another one.)\n(Another one.)\n\n\n\n\n(R, Excel, SQL, Tableau — whatever applied.)\n\n\n\n(Two or three sentences. What surprised you, what you would do differently, what skill you built that you did not have before.)\n\n(If you have more than one internship, copy the block above and add it here. Most recent first.)"
+  },
+  {
+    "objectID": "internship.html#organization-name",
+    "href": "internship.html#organization-name",
+    "title": "Internship",
+    "section": "",
+    "text": "Role · (Month Year – Month Year) · (City, State)\n(One paragraph on what the organization does and where you fit in.)\n\n\n\n(A project or responsibility, with the result if you can measure it.)\n(Another one.)\n(Another one.)\n\n\n\n\n(R, Excel, SQL, Tableau — whatever applied.)\n\n\n\n(Two or three sentences. What surprised you, what you would do differently, what skill you built that you did not have before.)\n\n(If you have more than one internship, copy the block above and add it here. Most recent first.)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jeerawan Jampit",
     "section": "",
-    "text": "Welcome. I am a graduate student in economics at Old Dominion University, working on applied econometrics and data analysis. This site is where I keep my projects, my written analyses, and notes on things I am learning.\n(Replace this paragraph with two or three sentences in your own words — who you are, what you study, and what you are looking for.)"
+    "text": "Welcome. I am a graduate student in economics at Old Dominion University, working on applied econometrics and data analysis. This site collects my coursework, research, and the things I make outside of class.\n(Replace this paragraph with two or three sentences in your own words — who you are, what you study, and what you are looking for.)"
   },
   {
-    "objectID": "index.html#what-you-will-find-here",
-    "href": "index.html#what-you-will-find-here",
+    "objectID": "index.html#around-the-site",
+    "href": "index.html#around-the-site",
     "title": "Jeerawan Jampit",
-    "section": "What you will find here",
-    "text": "What you will find here\n\nPortfolio — data analyses and research projects, rendered from Quarto.\nBlog — shorter notes on methods, tools, and coursework.\nAbout — background, education, and skills."
+    "section": "Around the site",
+    "text": "Around the site\n\nMore About Me — background, interests, and how I got here.\nResume — education, experience, and skills.\nCourses — what I have studied and what I am taking now.\nResearch — projects and rendered analyses, including Econometrics III.\nInternship — applied work outside the classroom.\nHandcrafted — things I make with my hands."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Note\n\n\n\nTo publish a PDF version of your CV, drop the file into this project as cv.pdf and add a download link: [Download PDF](cv.pdf). Quarto will copy it to the site automatically."
+    "text": "(Two or three sentences on your research interests — the questions you find interesting and the methods you use. Keep it plain enough that a non-economist could follow it.)\nMy interests sit around applied econometrics, with a focus on (labor / development / your field)."
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
+    "objectID": "research.html#what-i-work-on",
+    "href": "research.html#what-i-work-on",
+    "title": "Research",
+    "section": "",
+    "text": "(Two or three sentences on your research interests — the questions you find interesting and the methods you use. Keep it plain enough that a non-economist could follow it.)\nMy interests sit around applied econometrics, with a focus on (labor / development / your field)."
+  },
+  {
+    "objectID": "research.html#course-work",
+    "href": "research.html#course-work",
+    "title": "Research",
+    "section": "Course work",
+    "text": "Course work\n\nEconometrics III\nRendered assignments and projects from Econometrics III, written in Quarto. Each one shows the question, the data, the code, and what I found."
+  },
+  {
+    "objectID": "research.html#independent-projects",
+    "href": "research.html#independent-projects",
+    "title": "Research",
+    "section": "Independent projects",
+    "text": "Independent projects\n(As you start your own projects, add them here — a heading, two or three sentences, and a link to the write-up.)"
+  },
+  {
+    "objectID": "research.html#working-with-data",
+    "href": "research.html#working-with-data",
+    "title": "Research",
+    "section": "Working with data",
+    "text": "Working with data\nEverything on this site is written in Quarto, which means the analysis, the code, and the writing live in one file. If you want to see how a result was produced, the code is right there in the page."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Course\nTerm\nFocus\n\n\n\n\nEconometrics III\nFall 2026\nPanel data, causal inference, applied work in R\n\n\n(Course name)\nFall 2026\n(One line on what it covers)"
+  },
+  {
+    "objectID": "courses.html#currently-taking",
+    "href": "courses.html#currently-taking",
+    "title": "Courses",
+    "section": "",
+    "text": "Course\nTerm\nFocus\n\n\n\n\nEconometrics III\nFall 2026\nPanel data, causal inference, applied work in R\n\n\n(Course name)\nFall 2026\n(One line on what it covers)"
+  },
+  {
+    "objectID": "courses.html#completed-graduate",
+    "href": "courses.html#completed-graduate",
+    "title": "Courses",
+    "section": "Completed — graduate",
+    "text": "Completed — graduate\n\n\n\n\n\n\n\n\nCourse\nTerm\nWhat I took from it\n\n\n\n\nEconometrics II\nSpring 2026\n(A sentence on the main skill you gained)\n\n\nMicroeconomic Theory\nFall 2025\n(A sentence)\n\n\nMacroeconomic Theory\nFall 2025\n(A sentence)"
+  },
+  {
+    "objectID": "courses.html#completed-undergraduate",
+    "href": "courses.html#completed-undergraduate",
+    "title": "Courses",
+    "section": "Completed — undergraduate",
+    "text": "Completed — undergraduate\n(A short list of the courses that matter most for what you do now. You do not need to list everything.)\n\nCourse name\nCourse name\nCourse name"
+  },
+  {
+    "objectID": "courses.html#skills-these-built",
+    "href": "courses.html#skills-these-built",
+    "title": "Courses",
+    "section": "Skills these built",
+    "text": "Skills these built\n\nEconometrics — OLS and its extensions, panel methods, instrumental variables.\nProgramming — R, Stata, Python for cleaning, modeling, and reporting.\nCommunication — reproducible reports in Quarto; presenting results to non-specialists.\n\nWork from these courses lives under Research."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "More About Me",
+    "section": "",
+    "text": "(A few paragraphs about yourself: where you are from, what drew you to economics, and what you enjoy working on. Two to four short paragraphs is plenty — this is the page people read right after the home page.)"
+  },
+  {
+    "objectID": "about.html#hello",
+    "href": "about.html#hello",
+    "title": "More About Me",
+    "section": "",
+    "text": "(A few paragraphs about yourself: where you are from, what drew you to economics, and what you enjoy working on. Two to four short paragraphs is plenty — this is the page people read right after the home page.)"
+  },
+  {
+    "objectID": "about.html#how-i-got-here",
+    "href": "about.html#how-i-got-here",
+    "title": "More About Me",
+    "section": "How I got here",
+    "text": "How I got here\n(Your path: undergraduate studies, work or volunteering along the way, and what made you decide on graduate school in economics.)"
+  },
+  {
+    "objectID": "about.html#what-i-am-working-on",
+    "href": "about.html#what-i-am-working-on",
+    "title": "More About Me",
+    "section": "What I am working on",
+    "text": "What I am working on\n(What currently has your attention — a course, a research question, a skill you are building.)"
+  },
+  {
+    "objectID": "about.html#outside-of-economics",
+    "href": "about.html#outside-of-economics",
+    "title": "More About Me",
+    "section": "Outside of economics",
+    "text": "Outside of economics\n(Hobbies and interests. This is where you can point people to your Handcrafted page.)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "More About Me",
+    "section": "Contact",
+    "text": "Contact\nThe fastest way to reach me is by email at jjamp001@odu.edu."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "To add a downloadable PDF, put the file in this project as resume.pdf and it will appear at the link below.\nDownload PDF"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
     "section": "Education",
-    "text": "Education\nM.A. Economics, Old Dominion University — expected 20XX\nB.A./B.S. Your Field, Your University — 20XX"
+    "text": "Education\nM.A. Economics — Old Dominion University, expected 20XX\nCoursework: econometrics, microeconomic theory, macroeconomic theory, applied data analysis.\nB.A./B.S. Your Field — Your University, 20XX\n(Honors, thesis title, or relevant coursework.)"
   },
   {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
     "section": "Experience",
-    "text": "Experience\nJob title, Organization — 20XX–20XX\n\nWhat you did, with a number in it if you can.\nA second bullet."
+    "text": "Experience\nJob title — Organization, 20XX–20XX\n\nWhat you did, with a number in it where you can.\nA second bullet.\n\nJob title — Organization, 20XX–20XX\n\nA bullet."
   },
   {
-    "objectID": "cv.html#research-and-projects",
-    "href": "cv.html#research-and-projects",
-    "title": "CV",
-    "section": "Research and Projects",
-    "text": "Research and Projects\n\nProject title — one-line description. See project"
+    "objectID": "resume.html#research",
+    "href": "resume.html#research",
+    "title": "Resume",
+    "section": "Research",
+    "text": "Research\n\nProject title — one-line description. Read more"
   },
   {
-    "objectID": "cv.html#technical-skills",
-    "href": "cv.html#technical-skills",
-    "title": "CV",
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
     "section": "Technical Skills",
-    "text": "Technical Skills\nR · Stata · Python · SQL · Quarto · Tableau · Git"
+    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nStatistical analysis\nR, Stata, Python\n\n\nData visualization\nggplot2, Tableau, matplotlib\n\n\nReporting\nQuarto, R Markdown, LaTeX\n\n\nOther\nExcel, SQL, Git"
   },
   {
-    "objectID": "cv.html#languages",
-    "href": "cv.html#languages",
-    "title": "CV",
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
     "section": "Languages",
     "text": "Languages\nThai (native) · English (fluent)"
+  },
+  {
+    "objectID": "resume.html#awards-and-certifications",
+    "href": "resume.html#awards-and-certifications",
+    "title": "Resume",
+    "section": "Awards and Certifications",
+    "text": "Awards and Certifications\n\n(Award or certificate, year.)"
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html",
+    "href": "research/econometrics-iii/index.html",
+    "title": "Econometrics III",
+    "section": "",
+    "text": "Work from Econometrics III at Old Dominion University. Each entry is a Quarto document — the question, the data, the code, and the result in one place.\n(Replace this paragraph with a line or two about the course: what it covers and what software you are using.)\n\n\n\n\n\n\n\n\n\n\nAssignment 1\n\n\n\neconometrics\n\nR\n\n\n\nPlaceholder for the first assignment — replace with your own work.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\nNo matching items"
   }
 ]

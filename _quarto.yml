@@ -14,11 +14,22 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
-      - href: portfolio.qmd
-        text: Portfolio
-      - href: blog.qmd
-        text: Blog
+        text: More About Me
+      - href: resume.qmd
+        text: Resume
+      - href: courses.qmd
+        text: Courses
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Research Overview
+          - text: "---"
+          - href: research/econometrics-iii/index.qmd
+            text: Econometrics III
+      - href: internship.qmd
+        text: Internship
+      - href: handcrafted.qmd
+        text: Handcrafted
     right:
       - icon: envelope
         href: mailto:jjamp001@odu.edu
