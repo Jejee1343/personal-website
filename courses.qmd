@@ -1,41 +1,52 @@
 ---
 title: "Courses"
-subtitle: "Graduate and undergraduate coursework"
 toc: true
 ---
 
-## Currently taking
+## M.A. Economics
 
-| Course | Term | Focus |
-|--------|------|-------|
-| Econometrics III | Fall 2026 | Panel data, causal inference, applied work in R |
-| *(Course name)* | Fall 2026 | *(One line on what it covers)* |
+- Mathematical Economics
 
-: {tbl-colwidths="[35,20,45]"}
+- Economics Analytics
 
-## Completed — graduate
+- Advanced Microeconomics Analysis
 
-| Course | Term | What I took from it |
-|--------|------|---------------------|
-| Econometrics II | Spring 2026 | *(A sentence on the main skill you gained)* |
-| Microeconomic Theory | Fall 2025 | *(A sentence)* |
-| Macroeconomic Theory | Fall 2025 | *(A sentence)* |
+- Advanced Macroeconomic Analysis - [**Course Project**](https://drive.google.com/file/d/1xOzh2XVb4oOf3VBJDbIZqwCGrVGf28Ck/view?usp=sharing){target="_blank"}
 
-: {tbl-colwidths="[35,20,45]"}
+- Health Economics: A Global Perspective - [**Course Project**](https://drive.google.com/drive/folders/1S3quhZk68JUyILzZGUae-Fi40Tgz4_Zn?usp=drive_link){target="_blank"}
 
-## Completed — undergraduate
+- Supply Chain management - **Course Project**
 
-*(A short list of the courses that matter most for what you do now. You do not
-need to list everything.)*
+- Prescriptive Analytics of Management Science - **Course Project**
 
-- Course name
-- Course name
-- Course name
+- Econometrics I - [**Course Project**](https://drive.google.com/file/d/1BYpL_ddcK0vDFuNU3hy6cx7PJ4IGFFdM/view?usp=drive_link){target="_blank"}
 
-## Skills these built
+- Econometrics II - **Course Project**
 
-- **Econometrics** — OLS and its extensions, panel methods, instrumental variables.
-- **Programming** — R, Stata, Python for cleaning, modeling, and reporting.
-- **Communication** — reproducible reports in Quarto; presenting results to non-specialists.
+- Econometrics III - **Course Project**
 
-Work from these courses lives under [Research](research.qmd).
+- Research Methods (Capstone) - **Course Project**
+
+\n\n
+
+## Courses (Online)
+
+**Business Analytics with Excel - Johns Hopkins University**
+
+- Business Analytics with Excel: Elementary to Advanced - [**Certificate**](https://drive.google.com/file/d/11fO8X6U93i2-dGafk67WXLEITkv8YWWU/view?usp=sharing){target="_blank"}
+
+- Business Analytics with Excel: Intermediate to Advanced
+
+- Advanced Business Analytics: Excel Optimization & Simulation
+
+**Google Digital Marketing & E-commerce**
+
+- Foundations of Digital Marketing and E-commerce - [**Certificate**](https://drive.google.com/file/d/1FTzsP_m_8rSOFBlYkPJ_btr8dJneqOag/view?usp=drive_link){target="_blank"}
+
+- Attract and Engage Customers with Digital Marketing - [**Certificate**](https://drive.google.com/file/d/1a5D8kjLnw54um3rsaXdNHTHaG4pEIbtM/view?usp=drive_link){target="_blank"}
+
+- From Likes to Leads: Interact with Customers Online
+
+**Introduction to Healthcare - Stanford University**
+
+- Introduction to Healthcare - [**Certificate**](https://drive.google.com/file/d/1saDWXQIrpM60N38bZomJJ_Q11jE4BGhJ/view?usp=drive_link){target="_blank"}

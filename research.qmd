@@ -1,27 +1,73 @@
 ---
 title: "Research"
-subtitle: "Projects, analyses, and coursework"
 toc: true
 ---
 
-## What I work on
+```{=html}
+<style>
+.project-grid .card-body p { font-size: 0.85rem; line-height: 1.5; }
+</style>
+```
 
-*(Two or three sentences on your research interests — the questions you find interesting and the methods you use. Keep it plain enough that a non-economist could follow it.)*
+------------------------------------------------------------------------
 
-My interests sit around applied econometrics, with a focus on *(labor / development / your field)*.
+::::::::::::::: {.grid .project-grid}
+::::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+:::: {.card .h-100 .border-0 .text-left}
+![](images/research01.png){.card-img-top fig-alt="Econometrics I project cover"}
 
-## Course work
+::: card-body
+**Econometric I**
 
-### [Econometrics III](research/econometrics-iii/Final_Project.html)
+Unemployment Shocks and the Alternative-Credit Sector: A State-Level Time-Series Analysis of Virginia, 2012–2023
 
-Rendered assignments and projects from Econometrics III, written in Quarto.
-Each one shows the question, the data, the code, and what I found.
+[Read More](https://drive.google.com/file/d/1BYpL_ddcK0vDFuNU3hy6cx7PJ4IGFFdM/view?usp=drive_link){target="_blank"}
+:::
+::::
+:::::
 
-## Independent projects
+::::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+:::: {.card .h-100 .border-0 .text-left}
+![](images/research02.png){.card-img-top fig-alt="Health economics project cover"}
 
-*(As you start your own projects, add them here — a heading, two or three sentences, and a link to the write-up.)*
+::: card-body
+**Health Economics: A Global Perspective**
 
-## Working with data
+The Economics of Malaria Prevention: A Global Cost-Benefit Analysis of Vaccination and Prevention Programs
 
-Everything on this site is written in [Quarto](https://quarto.org), which means the analysis, the code, and the writing live in one file.
-If you want to see how a result was produced, the code is right there in the page.
+[Read More](https://drive.google.com/drive/folders/1S3quhZk68JUyILzZGUae-Fi40Tgz4_Zn?usp=drive_link){target="_blank"}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+:::: {.card .h-100 .border-0 .text-left}
+![](images/research03.png){.card-img-top fig-alt="Macroeconomic analysis project cover"}
+
+::: card-body
+**Advanced Macroecon Analysis**
+
+What Factors Influence Economic Growth in Argentina?
+Focus on Trade Openness, Capital Formation, and Labor Market Conditions
+
+[Read More](https://drive.google.com/file/d/1xOzh2XVb4oOf3VBJDbIZqwCGrVGf28Ck/view?usp=sharing){target="_blank"}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+:::: {.card .h-100 .border-0 .text-left}
+![](images/research04.png){.card-img-top fig-alt="Medical and science media project cover"}
+
+::: card-body
+**Medical and Science Media (Thai)**
+
+The design of an interactive E-book providing high school pupils with knowledge on Covid-19
+
+[Read More](https://drive.google.com/file/d/1hUQuldzRNx7_6BEL8LAEi4QMSXgRshJV/view?usp=sharing){target="_blank"}
+:::
+::::
+:::::
+:::::::::::::::
+
+------------------------------------------------------------------------

@@ -1,18 +1,12 @@
 ---
-title: "Handcrafted"
+title: "Hands-crafted"
 subtitle: "Things I make away from the keyboard"
 lightbox: auto
 toc: false
 ---
 
-*(A short paragraph introducing this page — what you make, how you got into it,
-and what you enjoy about it. Two or three sentences is plenty.)*
-
-Click any image to see it larger.
-
-::: {layout-ncol=3}
-
-![*(Caption — what it is)*](images/handcrafted/piece-01.svg)
+::: {layout-ncol="3"}
+![*(Caption)*](images/handcrafted/piece-01.svg)
 
 ![*(Caption)*](images/handcrafted/piece-02.svg)
 
@@ -23,19 +17,6 @@ Click any image to see it larger.
 ![*(Caption)*](images/handcrafted/piece-05.svg)
 
 ![*(Caption)*](images/handcrafted/piece-06.svg)
-
 :::
 
----
-
-### Adding your own photos
-
-Put your image files in `images/handcrafted/`, then replace the lines above.
-Each one follows this pattern:
-
-```
-![Your caption here](images/handcrafted/your-file.jpg)
-```
-
-Add or remove lines freely — the grid rearranges itself. Change `layout-ncol=3`
-to `2` or `4` if you want a different number of columns.
+------------------------------------------------------------------------

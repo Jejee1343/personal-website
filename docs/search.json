@@ -2,9 +2,9 @@
   {
     "objectID": "handcrafted.html",
     "href": "handcrafted.html",
-    "title": "Handcrafted",
+    "title": "Hands-crafted",
     "section": "",
-    "text": "(A short paragraph introducing this page — what you make, how you got into it, and what you enjoy about it. Two or three sentences is plenty.)\nClick any image to see it larger.\n\n\n\n\n\n\n(Caption — what it is)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\nAdding your own photos\nPut your image files in images/handcrafted/, then replace the lines above. Each one follows this pattern:\n![Your caption here](images/handcrafted/your-file.jpg)\nAdd or remove lines freely — the grid rearranges itself. Change layout-ncol=3 to 2 or 4 if you want a different number of columns."
+    "text": "(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)\n\n\n\n\n\n\n\n(Caption)"
   },
   {
     "objectID": "research/econometrics-iii/assignment-01/index.html",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Jeerawan Jampit",
     "section": "",
-    "text": "Welcome. I am a graduate student in economics at Old Dominion University, working on applied econometrics and data analysis. This site collects my coursework, research, and the things I make outside of class.\n(Replace this paragraph with two or three sentences in your own words — who you are, what you study, and what you are looking for.)"
+    "text": "I’m a graduate student in economics at Old Dominion University, where I’m pursuing my M.A. I’m drawn to econometrics, economic analytics, health economics, and business analysis — essentially, any place where data can help explain how people and markets behave. Along the way I’ve worked in data analysis, marketing analytics, competitive intelligence, and staffing analytics, using tools like Excel, SQL, R, Tableau, and Avionté.\n\n“Creativity is thinking up new things. Innovation is doing new things.” - Theodore Levitt"
   },
   {
     "objectID": "index.html#around-the-site",
@@ -88,14 +88,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "(Two or three sentences on your research interests — the questions you find interesting and the methods you use. Keep it plain enough that a non-economist could follow it.)\nMy interests sit around applied econometrics, with a focus on (labor / development / your field)."
+    "text": "Econometric I\nUnemployment Shocks and the Alternative-Credit Sector: A State-Level Time-Series Analysis of Virginia, 2012–2023\nRead More\n\n\n\n\n\n\n\nHealth Economics: A Global Perspective\nThe Economics of Malaria Prevention: A Global Cost-Benefit Analysis of Vaccination and Prevention Programs\nRead More\n\n\n\n\n\n\n\nAdvanced Macroecon Analysis\nWhat Factors Influence Economic Growth in Argentina? Focus on Trade Openness, Capital Formation, and Labor Market Conditions\nRead More\n\n\n\n\n\n\n\nMedical and Science Media (Thai)\nThe design of an interactive E-book providing high school pupils with knowledge on Covid-19\nRead More"
   },
   {
     "objectID": "research.html#what-i-work-on",
     "href": "research.html#what-i-work-on",
     "title": "Research",
-    "section": "",
-    "text": "(Two or three sentences on your research interests — the questions you find interesting and the methods you use. Keep it plain enough that a non-economist could follow it.)\nMy interests sit around applied econometrics, with a focus on (labor / development / your field)."
+    "section": "What I work on",
+    "text": "What I work on\n(Two or three sentences on your research interests — the questions you find interesting and the methods you use. Keep it plain enough that a non-economist could follow it.)\nMy interests sit around applied econometrics, with a focus on (labor / development / your field)."
   },
   {
     "objectID": "research.html#course-work",
@@ -123,7 +123,7 @@
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "Course\nTerm\nFocus\n\n\n\n\nEconometrics III\nFall 2026\nPanel data, causal inference, applied work in R\n\n\n(Course name)\nFall 2026\n(One line on what it covers)"
+    "text": "Mathematical Economics\nEconomics Analytics\nAdvanced Microeconomics Analysis\nAdvanced Macroeconomic Analysis - Course Project\nHealth Economics: A Global Perspective - Course Project\nSupply Chain management - Course Project\nPrescriptive Analytics of Management Science - Course Project\nEconometrics I - Course Project\nEconometrics II - Course Project\nEconometrics III - Course Project\nResearch Methods (Capstone) - Course Project"
   },
   {
     "objectID": "courses.html#currently-taking",
@@ -200,7 +200,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "To add a downloadable PDF, put the file in this project as resume.pdf and it will appear at the link below.\nDownload PDF"
+    "text": "Download PDF"
   },
   {
     "objectID": "resume.html#education",
@@ -439,5 +439,40 @@
     "title": "Title Here",
     "section": "Conclusion",
     "text": "Conclusion\nMarc Bellemare has a helpful Conclusion Formula in response to Dr. Head’s."
+  },
+  {
+    "objectID": "index.html#welcome-im-a-graduate-student-in-economics-at-old-dominion-university-where-im-pursuing-my-m.a.-im-drawn-to-econometrics-economic-analytics-health-economics-and-business-analysis-essentially-any-place-where-data-can-help-explain-how-people-and-markets-behave.-along-the-way-ive-worked-in-data-analysis-marketing-analytics-competitive-intelligence-and-staffing-analytics-using-tools-like-excel-sql-r-tableau-and-avionté.",
+    "href": "index.html#welcome-im-a-graduate-student-in-economics-at-old-dominion-university-where-im-pursuing-my-m.a.-im-drawn-to-econometrics-economic-analytics-health-economics-and-business-analysis-essentially-any-place-where-data-can-help-explain-how-people-and-markets-behave.-along-the-way-ive-worked-in-data-analysis-marketing-analytics-competitive-intelligence-and-staffing-analytics-using-tools-like-excel-sql-r-tableau-and-avionté.",
+    "title": "Jeerawan Jampit",
+    "section": "",
+    "text": "“Creativity is thinking up new things. Innovation is doing new things.” - Theodore Levitt"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Jeerawan Jampit",
+    "section": "",
+    "text": "I’m a graduate student in economics at Old Dominion University, where I’m pursuing my M.A. I’m drawn to econometrics, economic analytics, health economics, and business analysis — essentially, any place where data can help explain how people and markets behave. Along the way I’ve worked in data analysis, marketing analytics, competitive intelligence, and staffing analytics, using tools like Excel, SQL, R, Tableau, and Avionté.\n\n“Creativity is thinking up new things. Innovation is doing new things.” - Theodore Levitt"
+  },
+  {
+    "objectID": "courses.html#courses-m.a.-economics",
+    "href": "courses.html#courses-m.a.-economics",
+    "title": "Courses",
+    "section": "",
+    "text": "Mathematical Economics\nEconomics Analytics\nAdvanced Microeconomics Analysis\nAdvanced Macroeconomic Analysis - Course Project\nHealth Economics: A Global Perspective - Course Project\nSupply Chain management - Course Project\nPrescriptive Analytics of Management Science - Course Project\nEconometrics I - Course Project\nEconometrics II - Course Project\nEconometrics III - Course Project\nResearch Methods (Capstone) - Course Project"
+  },
+  {
+    "objectID": "courses.html#courses-online",
+    "href": "courses.html#courses-online",
+    "title": "Courses",
+    "section": "Courses (Online)",
+    "text": "Courses (Online)\nBusiness Analytics with Excel - Johns Hopkins University\n\nBusiness Analytics with Excel: Elementary to Advanced - Certificate\nBusiness Analytics with Excel: Intermediate to Advanced\nAdvanced Business Analytics: Excel Optimization & Simulation\n\nGoogle Digital Marketing & E-commerce\n\nFoundations of Digital Marketing and E-commerce - Certificate\nAttract and Engage Customers with Digital Marketing - Certificate\nFrom Likes to Leads: Interact with Customers Online\n\nIntroduction to Healthcare - Stanford University\n\nIntroduction to Healthcare - Certificate"
+  },
+  {
+    "objectID": "courses.html#m.a.-economics",
+    "href": "courses.html#m.a.-economics",
+    "title": "Courses",
+    "section": "",
+    "text": "Mathematical Economics\nEconomics Analytics\nAdvanced Microeconomics Analysis\nAdvanced Macroeconomic Analysis - Course Project\nHealth Economics: A Global Perspective - Course Project\nSupply Chain management - Course Project\nPrescriptive Analytics of Management Science - Course Project\nEconometrics I - Course Project\nEconometrics II - Course Project\nEconometrics III - Course Project\nResearch Methods (Capstone) - Course Project"
   }
 ]

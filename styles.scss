@@ -60,3 +60,10 @@ footer.footer {
 table {
   font-size: 0.95rem;
 }
+
+/*-- scss:rules --*/
+
+main a:not(.btn):not(.nav-link) {
+  text-decoration: underline;
+  text-underline-offset: 2px;   // small gap, easier to read
+}

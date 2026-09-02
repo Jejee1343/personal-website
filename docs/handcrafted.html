@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Handcrafted – Jeerawan Jampit</title>
+<title>Hands-crafted – Jeerawan Jampit</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2bc0863c5365a8dd0f96d2098c9c6ef9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6876f4fdf6e5d26add572cdc6414f166.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -119,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="./research/econometrics-iii/index.html">
+    <a class="dropdown-item" href="./research/econometrics-iii/Final_Project.html">
  <span class="dropdown-text">Econometrics III</span></a>
   </li>  
     </ul>
@@ -140,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/Jejee1343"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="./(https://www.linkedin.com/in/jeerawan-jampit-a14b97266/) {target=“Blank”}"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -161,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Handcrafted</h1>
+<h1 class="title">Hands-crafted</h1>
 <p class="subtitle lead">Things I make away from the keyboard</p>
 </div>
 
@@ -179,15 +182,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>(A short paragraph introducing this page — what you make, how you got into it, and what you enjoy about it. Two or three sentences is plenty.)</em></p>
-<p>Click any image to see it larger.</p>
 <div class="quarto-layout-panel" data-layout-ncol="3">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/handcrafted/piece-01.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="(Caption — what it is)"><img src="images/handcrafted/piece-01.svg" class="img-fluid figure-img" alt="(Caption — what it is)"></a></p>
-<figcaption><em>(Caption — what it is)</em></figcaption>
+<p><a href="images/handcrafted/piece-01.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="(Caption)"><img src="images/handcrafted/piece-01.svg" class="img-fluid figure-img" alt="(Caption)"></a></p>
+<figcaption><em>(Caption)</em></figcaption>
 </figure>
 </div>
 </div>
@@ -236,14 +237,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <hr>
-<section id="adding-your-own-photos" class="level3">
-<h3 class="anchored" data-anchor-id="adding-your-own-photos">Adding your own photos</h3>
-<p>Put your image files in <code>images/handcrafted/</code>, then replace the lines above. Each one follows this pattern:</p>
-<pre><code>![Your caption here](images/handcrafted/your-file.jpg)</code></pre>
-<p>Add or remove lines freely — the grid rearranges itself. Change <code>layout-ncol=3</code> to <code>2</code> or <code>4</code> if you want a different number of columns.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -297,13 +292,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -318,7 +314,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/quarto\.jeerawanjampit\.com");
+        var filterRegex = new RegExp("https:\/\/jeerawanjampit\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -654,14 +650,14 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Jeerawan Jampit</p>
-</div>   
+      &nbsp;
+    </div>   
     <div class="nav-footer-center">
+<p>© 2026 Jeerawan Jampit</p>
+</div>
+    <div class="nav-footer-right">
       &nbsp;
     </div>
-    <div class="nav-footer-right">
-<p>Built with <a href="https://quarto.org">Quarto</a></p>
-</div>
   </div>
 </footer>
 <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});

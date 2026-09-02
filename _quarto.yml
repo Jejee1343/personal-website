@@ -34,20 +34,17 @@ website:
       - icon: envelope
         href: mailto:jjamp001@odu.edu
         aria-label: Email
-      - icon: github
-        href: https://github.com/Jejee1343
-        aria-label: GitHub
-      # - icon: linkedin
-      #   href: https://www.linkedin.com/in/YOUR-HANDLE
-      #   aria-label: LinkedIn
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jeerawan-jampit-a14b97266/
+        aria-label: LinkedIn
   page-footer:
-    left: "© 2026 Jeerawan Jampit"
-    right: "Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Jeerawan Jampit"
+
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - styles.scss
     toc: true
     toc-depth: 3
