@@ -247,8 +247,197 @@
   {
     "objectID": "research/econometrics-iii/index.html",
     "href": "research/econometrics-iii/index.html",
-    "title": "Econometrics III",
+    "title": "Title Here",
     "section": "",
-    "text": "Work from Econometrics III at Old Dominion University. Each entry is a Quarto document — the question, the data, the code, and the result in one place.\n(Replace this paragraph with a line or two about the course: what it covers and what software you are using.)\n\n\n\n\n\n\n\n\n\n\nAssignment 1\n\n\n\neconometrics\n\nR\n\n\n\nPlaceholder for the first assignment — replace with your own work.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\nNo matching items"
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html#introduction",
+    "href": "research/econometrics-iii/index.html#introduction",
+    "title": "Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html#literature-review",
+    "href": "research/econometrics-iii/index.html#literature-review",
+    "title": "Title Here",
+    "section": "Literature Review",
+    "text": "Literature Review"
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html#data",
+    "href": "research/econometrics-iii/index.html#data",
+    "title": "Title Here",
+    "section": "Data",
+    "text": "Data\n\nSources\nDescription\nSummary\n\n\n\nCode\n# Code here."
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html#empirical-strategy",
+    "href": "research/econometrics-iii/index.html#empirical-strategy",
+    "title": "Title Here",
+    "section": "Empirical Strategy",
+    "text": "Empirical Strategy\n\\[\\text{Outcome}_{it} = \\alpha + \\delta D_{it} + X_{it}\\beta + \\epsilon_{it}\\]\nFor inline equations, only use a single dollar sign like: \\(\\overline{Y} = \\widehat{m}\\overline{X} + \\widehat{b}\\)."
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html#results",
+    "href": "research/econometrics-iii/index.html#results",
+    "title": "Title Here",
+    "section": "Results",
+    "text": "Results\n\n\nCode\n2 + 2\n\n\n\nOutput\n\n\n[1] 4"
+  },
+  {
+    "objectID": "research/econometrics-iii/index.html#conclusion",
+    "href": "research/econometrics-iii/index.html#conclusion",
+    "title": "Title Here",
+    "section": "Conclusion",
+    "text": "Conclusion\nMarc Bellemare has a helpful Conclusion Formula in response to Dr. Head’s."
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html",
+    "href": "research/econometrics-iii/research-paper/index.html",
+    "title": "Your Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html#introduction",
+    "href": "research/econometrics-iii/research-paper/index.html#introduction",
+    "title": "Your Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html#literature-review",
+    "href": "research/econometrics-iii/research-paper/index.html#literature-review",
+    "title": "Your Title Here",
+    "section": "Literature Review",
+    "text": "Literature Review"
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html#data",
+    "href": "research/econometrics-iii/research-paper/index.html#data",
+    "title": "Your Title Here",
+    "section": "Data",
+    "text": "Data\n\nSources\nDescription\nSummary\n\n\n\nCode\n# Code here."
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html#empirical-strategy",
+    "href": "research/econometrics-iii/research-paper/index.html#empirical-strategy",
+    "title": "Your Title Here",
+    "section": "Empirical Strategy",
+    "text": "Empirical Strategy\n\\[\\text{Outcome}_{it} = \\alpha + \\delta D_{it} + X_{it}\\beta + \\epsilon_{it}\\]\nFor inline equations, only use a single dollar sign like: \\(\\overline{Y} = \\widehat{m}\\overline{X} + \\widehat{b}\\)."
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html#results",
+    "href": "research/econometrics-iii/research-paper/index.html#results",
+    "title": "Your Title Here",
+    "section": "Results",
+    "text": "Results\n\n\nCode\n2 + 2\n\n\n\nOutput\n\n\n[1] 4"
+  },
+  {
+    "objectID": "research/econometrics-iii/research-paper/index.html#conclusion",
+    "href": "research/econometrics-iii/research-paper/index.html#conclusion",
+    "title": "Your Title Here",
+    "section": "Conclusion",
+    "text": "Conclusion\nMarc Bellemare has a helpful Conclusion Formula in response to Dr. Head’s."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html",
+    "href": "research/econometrics-iii/Final Project.html",
+    "title": "Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html#introduction",
+    "href": "research/econometrics-iii/Final Project.html#introduction",
+    "title": "Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html#literature-review",
+    "href": "research/econometrics-iii/Final Project.html#literature-review",
+    "title": "Title Here",
+    "section": "Literature Review",
+    "text": "Literature Review"
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html#data",
+    "href": "research/econometrics-iii/Final Project.html#data",
+    "title": "Title Here",
+    "section": "Data",
+    "text": "Data\n\nSources\nDescription\nSummary\n\n\n\nCode\n# Code here."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html#empirical-strategy",
+    "href": "research/econometrics-iii/Final Project.html#empirical-strategy",
+    "title": "Title Here",
+    "section": "Empirical Strategy",
+    "text": "Empirical Strategy\n\\[\\text{Outcome}_{it} = \\alpha + \\delta D_{it} + X_{it}\\beta + \\epsilon_{it}\\]\nFor inline equations, only use a single dollar sign like: \\(\\overline{Y} = \\widehat{m}\\overline{X} + \\widehat{b}\\)."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html#results",
+    "href": "research/econometrics-iii/Final Project.html#results",
+    "title": "Title Here",
+    "section": "Results",
+    "text": "Results\n\n\nCode\n2 + 2\n\n\n\nOutput\n\n\n[1] 4"
+  },
+  {
+    "objectID": "research/econometrics-iii/Final Project.html#conclusion",
+    "href": "research/econometrics-iii/Final Project.html#conclusion",
+    "title": "Title Here",
+    "section": "Conclusion",
+    "text": "Conclusion\nMarc Bellemare has a helpful Conclusion Formula in response to Dr. Head’s."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html",
+    "href": "research/econometrics-iii/Final_Project.html",
+    "title": "Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html#introduction",
+    "href": "research/econometrics-iii/Final_Project.html#introduction",
+    "title": "Title Here",
+    "section": "",
+    "text": "For a “how to” on writing introductions, see Keith Head’s Introduction Formula."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html#literature-review",
+    "href": "research/econometrics-iii/Final_Project.html#literature-review",
+    "title": "Title Here",
+    "section": "Literature Review",
+    "text": "Literature Review"
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html#data",
+    "href": "research/econometrics-iii/Final_Project.html#data",
+    "title": "Title Here",
+    "section": "Data",
+    "text": "Data\n\nSources\nDescription\nSummary\n\n\n\nCode\n# Code here."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html#empirical-strategy",
+    "href": "research/econometrics-iii/Final_Project.html#empirical-strategy",
+    "title": "Title Here",
+    "section": "Empirical Strategy",
+    "text": "Empirical Strategy\n\\[\\text{Outcome}_{it} = \\alpha + \\delta D_{it} + X_{it}\\beta + \\epsilon_{it}\\]\nFor inline equations, only use a single dollar sign like: \\(\\overline{Y} = \\widehat{m}\\overline{X} + \\widehat{b}\\)."
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html#results",
+    "href": "research/econometrics-iii/Final_Project.html#results",
+    "title": "Title Here",
+    "section": "Results",
+    "text": "Results\n\n\nCode\n2 + 2\n\n\n\nOutput\n\n\n[1] 4"
+  },
+  {
+    "objectID": "research/econometrics-iii/Final_Project.html#conclusion",
+    "href": "research/econometrics-iii/Final_Project.html#conclusion",
+    "title": "Title Here",
+    "section": "Conclusion",
+    "text": "Conclusion\nMarc Bellemare has a helpful Conclusion Formula in response to Dr. Head’s."
   }
 ]

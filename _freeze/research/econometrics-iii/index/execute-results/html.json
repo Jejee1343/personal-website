@@ -1,0 +1,15 @@
+{
+  "hash": "736c0fa4830e88e402a97be1cb4400d3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Title Here\"\nsubtitle: \"Econometrics III Final Project\"\nauthor: \"Jeerawan Jampit\"\ninstitute: \"Old Dominion University\"\nformat: \n  html:\n    theme: sandstone # Check here for more themes: https://quarto.org/docs/output-formats/html-themes.html\n    code-tools: true\n    code-fold: true\n    code-summary: \"Code\"\n    code-copy: hover\n    link-external-newwindow: true\n    tbl-cap-location: top\n    fig-cap-location: bottom\n\nself-contained: true\neditor: source\n---\n\n\n\n## Introduction\n\nFor a \"how to\" on writing introductions, see [Keith Head's Introduction Formula](https://blogs.ubc.ca/khead/research/research-advice/formula).\n\n## Literature Review\n\n## Data\n\n- Sources\n- Description\n- Summary\n\n\n::: {.cell layout-align=\"center\"}\n\n```{.r .cell-code}\n# Code here.\n```\n:::\n\n\n## Empirical Strategy\n\n$$\\text{Outcome}_{it} = \\alpha + \\delta D_{it} + X_{it}\\beta + \\epsilon_{it}$$\n\nFor inline equations, only use a single dollar sign like: $\\overline{Y} = \\widehat{m}\\overline{X} + \\widehat{b}$.\n\n## Results\n\n\n::: {.cell layout-align=\"center\"}\n\n```{.r .cell-code}\n2 + 2\n```\n\n<details open><summary>Output</summary>\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n\n\n\n</details>\n:::\n\n\n## Conclusion\n\nMarc Bellemare has a helpful [Conclusion Formula](https://marcfbellemare.com/wordpress/12060) in response to Dr. Head's.\n\n------------------------------------------------------------------------\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
