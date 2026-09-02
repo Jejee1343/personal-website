@@ -1,7 +1,7 @@
 ---
 title: "Title Here"
 subtitle: "Econometrics III Final Project"
-author: "Jeerawan Jampit"
+author: "Jeerawan Jampit JJ"
 institute: "Old Dominion University"
 format: 
   html:
