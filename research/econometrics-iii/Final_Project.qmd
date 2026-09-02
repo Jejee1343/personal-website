@@ -10,11 +10,9 @@ format:
     code-fold: true
     code-summary: "Code"
     code-copy: hover
-    link-external-newwindow: true
     tbl-cap-location: top
     fig-cap-location: bottom
 
-self-contained: true
 editor: source
 ---
 

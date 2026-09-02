@@ -24,7 +24,7 @@ website:
           - href: research.qmd
             text: Research Overview
           - text: "---"
-          - href: research/econometrics-iii/index.qmd
+          - href: research/econometrics-iii/Final_Project.qmd
             text: Econometrics III
       - href: internship.qmd
         text: Internship
