@@ -1,9 +1,9 @@
 project:
   type: website
   output-dir: docs
-  # Phase 2 (custom domain): uncomment the two lines below, then render.
-  # resources:
-  #   - CNAME
+  # Keeps the custom domain alive across renders. Do not remove.
+  resources:
+    - CNAME
 
 website:
   title: "Jeerawan Jampit"
