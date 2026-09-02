@@ -1,7 +1,7 @@
 # personal-website
 
 Source for **Jeerawan Jampit**'s website — built with [Quarto](https://quarto.org),
-published with GitHub Pages, served at **quarto.jeerawanjampit.com**.
+published with GitHub Pages, served at **jeerawanjampit.com**.
 
 ---
 
@@ -138,7 +138,7 @@ page with Cmd+Shift+R.
 
 **The domain shows a 404** — check GitHub → repo → Settings → Pages: source
 should be `main` / `/docs`, and the custom domain should read
-`quarto.jeerawanjampit.com`.
+`jeerawanjampit.com`.
 
 **A new page doesn't appear** — for posts and projects it must be its own folder
 containing a file named exactly `index.qmd`.

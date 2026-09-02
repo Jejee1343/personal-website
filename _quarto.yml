@@ -8,7 +8,7 @@ project:
 website:
   title: "Jeerawan Jampit"
   description: "Economics graduate student — portfolio, projects, and writing."
-  site-url: "https://quarto.jeerawanjampit.com"
+  site-url: "https://jeerawanjampit.com"
   navbar:
     left:
       - href: index.qmd
