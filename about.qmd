@@ -2,29 +2,3 @@
 title: "More About Me"
 toc: true
 ---
-
-## Hello
-
-*(A few paragraphs about yourself: where you are from, what drew you to
-economics, and what you enjoy working on. Two to four short paragraphs is
-plenty — this is the page people read right after the home page.)*
-
-## How I got here
-
-*(Your path: undergraduate studies, work or volunteering along the way, and
-what made you decide on graduate school in economics.)*
-
-## What I am working on
-
-*(What currently has your attention — a course, a research question, a skill
-you are building.)*
-
-## Outside of economics
-
-*(Hobbies and interests. This is where you can point people to your
-[Handcrafted](handcrafted.qmd) page.)*
-
-## Contact
-
-The fastest way to reach me is by email at
-[jjamp001@odu.edu](mailto:jjamp001@odu.edu).
